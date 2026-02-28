@@ -8,7 +8,7 @@ I play with a rating 1400, and this program helps me understand my perfomance.
 
 ## Features
 - Stories game date, opponent rating, result (win/loss),
-- Calculates total wins and win tate(%)
+- Calculates total wins and win rate(%)
 - Shows how well I play with white vs black pieces
 - Built with Python, Pandas, and SQLite
 
