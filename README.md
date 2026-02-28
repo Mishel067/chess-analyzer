@@ -18,7 +18,7 @@ I play with a rating 1400, and this program helps me understand my perfomance.
 3. See your chess stats instantly!
 
 ## Example Output
-Chess Stats
+`Chess Stats
 Total games: 30
 Wins: 18
 Average opponent rating: 2030
@@ -30,7 +30,6 @@ All games:
  game_id       date color  opponent_rating  result
        1 1997-08-05 white             2553       1
        2 1962-09-02 black             1782       1
-                  .......
-
+                  .......`
 > Made by Misha
 > Vladimir, Russia
